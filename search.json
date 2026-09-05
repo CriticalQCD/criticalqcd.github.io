@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "CriticalQCD will provide curated resources for the QCD critical-point community.\n\n\nComing soon.\n\n\n\nComing soon.\n\n\n\nComing soon.\n\n\n\nComing soon.\n\n\n\nComing soon.\n\n\n\nComing soon."
+  },
+  {
+    "objectID": "resources.html#reviews-and-foundational-papers",
+    "href": "resources.html#reviews-and-foundational-papers",
+    "title": "Resources",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "resources.html#experimental-results",
+    "href": "resources.html#experimental-results",
+    "title": "Resources",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "resources.html#theory-and-phenomenology",
+    "href": "resources.html#theory-and-phenomenology",
+    "title": "Resources",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "resources.html#public-talks-and-lectures",
+    "href": "resources.html#public-talks-and-lectures",
+    "title": "Resources",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Resources",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "resources.html#experimental-programs",
+    "href": "resources.html#experimental-programs",
+    "title": "Resources",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About CriticalQCD",
+    "section": "",
+    "text": "CriticalQCD is an independent, community-oriented scientific resource dedicated to the global search for the QCD critical point.\nIts purpose is to organize and connect experimental evidence, theoretical developments, open questions, methods, challenges, public resources, and worldwide research efforts.\nCriticalQCD does not represent any experimental collaboration, institution, conference, or funding agency.\n\n\nCriticalQCD aims to distinguish clearly between:\n\nestablished results,\nsuggestive evidence,\nunresolved interpretations,\ntheoretical predictions,\npreliminary results,\nnoncritical explanations,\nand open questions.\n\nCompeting scientific interpretations should be represented fairly.\n\n\n\nCriticalQCD was initiated and is maintained by Debasish Mallick.\nCommunity suggestions, corrections, and contributions will be welcomed as the project develops."
+  },
+  {
+    "objectID": "about.html#editorial-philosophy",
+    "href": "about.html#editorial-philosophy",
+    "title": "About CriticalQCD",
+    "section": "",
+    "text": "CriticalQCD aims to distinguish clearly between:\n\nestablished results,\nsuggestive evidence,\nunresolved interpretations,\ntheoretical predictions,\npreliminary results,\nnoncritical explanations,\nand open questions.\n\nCompeting scientific interpretations should be represented fairly."
+  },
+  {
+    "objectID": "about.html#maintainer",
+    "href": "about.html#maintainer",
+    "title": "About CriticalQCD",
+    "section": "",
+    "text": "CriticalQCD was initiated and is maintained by Debasish Mallick.\nCommunity suggestions, corrections, and contributions will be welcomed as the project develops."
+  },
+  {
+    "objectID": "questions.html",
+    "href": "questions.html",
+    "title": "Open Questions",
+    "section": "",
+    "text": "Open Questions\n\nDoes an experimentally accessible QCD critical point exist?\nIf it exists, where is it located in the QCD phase diagram?\nWhat would constitute convincing experimental evidence?\nCan present fluctuation structures be explained by noncritical physics?\nWhich observables provide genuinely independent information?\nCan critical correlations survive the dynamical evolution of a heavy-ion collision?\nCan several independent observables identify the same underlying critical behavior?\nWhich future measurements would most decisively confirm or exclude criticality?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The global search for the QCD critical point",
+    "section": "",
+    "text": "STATUS • EVIDENCE • OPEN QUESTIONS • RESOURCES\n\n\n\nCriticalQCD is an independent, community-oriented scientific resource tracking the evidence, theoretical developments, experimental efforts, open questions, challenges, methods, and resources in the worldwide search for the QCD critical point.\n\nExplore Current Status\nOpen Questions"
+  },
+  {
+    "objectID": "index.html#the-central-question",
+    "href": "index.html#the-central-question",
+    "title": "The global search for the QCD critical point",
+    "section": "The central question",
+    "text": "The central question\nDoes strongly interacting matter possess a critical point at finite temperature and baryon density that can be accessed through heavy-ion collisions?\nAnswering this requires more than observing one non-monotonic quantity. A convincing case should connect multiple independent observables, quantitative theory, realistic dynamical evolution, and stringent noncritical baselines.\n\n\nCurrent Status\nWhat do experiments and theory presently tell us?\nEvidence, uncertainties, competing interpretations, and the measurements that could change the picture.\nExplore the evidence →\n\n\nOpen Questions\nWhat remains genuinely unresolved?\nA living map of the theoretical, experimental, statistical, and phenomenological problems that still stand between interesting signals and a convincing conclusion.\nSee the open questions →\n\n\nResources\nFind important papers, reviews, public talks, experimental programs, software, lectures, and reproducibility resources.\nBrowse resources →"
+  },
+  {
+    "objectID": "index.html#what-criticalqcd-brings-together",
+    "href": "index.html#what-criticalqcd-brings-together",
+    "title": "The global search for the QCD critical point",
+    "section": "What CriticalQCD brings together",
+    "text": "What CriticalQCD brings together\n\n\nExperiment\nRHIC BES and FXT, SPS, HADES, FAIR/CBM, NICA and other high-baryon-density programs.\n\n\nObservables\nConserved-charge cumulants, factorial cumulants, correlations, intermittency, momentum fluctuations, light nuclei, full distributions, and emerging probes.\n\n\nTheory\nUniversality, lattice QCD, critical dynamics, hydrodynamics, statistical mechanics, transport, and effective descriptions.\n\n\nChallenges\nFinite statistics, conservation laws, volume fluctuations, acceptance, critical slowing down, hadronic evolution, detector effects, and model dependence."
+  },
+  {
+    "objectID": "index.html#scientific-principle",
+    "href": "index.html#scientific-principle",
+    "title": "The global search for the QCD critical point",
+    "section": "Scientific principle",
+    "text": "Scientific principle\nCriticalQCD does not begin from the assumption that a critical point must be present in the experimentally accessible region.\nThe objective is to determine what the total body of evidence supports.\nA credible conclusion should survive:\n\nmultiple independent observables,\nrealistic noncritical baselines,\ndetector and analysis effects,\ndynamical evolution,\nquantitative theoretical consistency,\nand independent experimental confirmation.\n\nFinding compelling evidence against an accessible critical point would be scientifically as important as establishing evidence for one.\n\n\nA living scientific resource\nCriticalQCD will grow continuously as new measurements, calculations, talks, software, and theoretical developments appear.\nAbout CriticalQCD"
+  },
+  {
+    "objectID": "status.html",
+    "href": "status.html",
+    "title": "Current Status",
+    "section": "",
+    "text": "UNRESOLVED\nThe existence and location of an experimentally accessible QCD critical point have not been established.\nHeavy-ion experiments have produced several interesting fluctuation and correlation measurements, but no single observation currently provides a unique critical-point interpretation.\nThe central task is therefore not only to search for unusual behavior, but to determine whether the full set of observations can be explained consistently by critical physics and whether credible noncritical alternatives can be excluded.\nLast scientific update: September 2026"
+  },
+  {
+    "objectID": "status.html#overall-assessment",
+    "href": "status.html#overall-assessment",
+    "title": "Current Status",
+    "section": "",
+    "text": "UNRESOLVED\nThe existence and location of an experimentally accessible QCD critical point have not been established.\nHeavy-ion experiments have produced several interesting fluctuation and correlation measurements, but no single observation currently provides a unique critical-point interpretation.\nThe central task is therefore not only to search for unusual behavior, but to determine whether the full set of observations can be explained consistently by critical physics and whether credible noncritical alternatives can be excluded.\nLast scientific update: September 2026"
+  },
+  {
+    "objectID": "status.html#how-criticalqcd-describes-evidence",
+    "href": "status.html#how-criticalqcd-describes-evidence",
+    "title": "Current Status",
+    "section": "How CriticalQCD describes evidence",
+    "text": "How CriticalQCD describes evidence\nCriticalQCD will use a small controlled vocabulary so that very different results are not presented with the same level of certainty.\n\nESTABLISHED A result or conclusion supported robustly by current evidence.\nSUGGESTIVE Interesting evidence exists, but important ambiguities remain.\nUNRESOLVED Competing interpretations remain viable.\nDISFAVORED Available evidence significantly weakens a proposed interpretation.\nOPEN A scientifically important question for which decisive evidence is not yet available.\n\nThese labels describe the state of the evidence, not the importance of a topic or the quality of an individual paper."
+  },
+  {
+    "objectID": "status.html#evidence-landscape",
+    "href": "status.html#evidence-landscape",
+    "title": "Current Status",
+    "section": "Evidence landscape",
+    "text": "Evidence landscape\n\nConserved-charge and net-proton fluctuations\nHigher-order fluctuations of conserved quantities remain among the central experimental probes of the QCD phase structure.\nKey questions include:\n\nwhether observed beam-energy structures require critical physics,\nhow strongly volume fluctuations and centrality resolution contribute,\nhow baryon-number conservation modifies the observables,\nhow measured proton fluctuations relate to baryon-number fluctuations,\nhow acceptance influences higher-order correlations,\nand whether several cumulant orders can be described consistently.\n\nCurrent broad assessment: UNRESOLVED\n\n\nFactorial cumulants and multiparticle correlations\nFactorial cumulants provide a complementary description of genuine multiparticle correlations and can expose correlation structures that are less transparent in conventional cumulant ratios.\nImportant questions concern the microscopic origin, acceptance scaling, beam-energy dependence, and relation to possible critical correlations.\nCurrent broad assessment: UNRESOLVED\n\n\nMomentum and mean-(p_T) fluctuations\nMomentum-space fluctuations provide information complementary to multiplicity fluctuations and may probe temperature-like and collective degrees of freedom.\nTheir relationship to critical dynamics and to noncritical sources requires systematic quantitative study.\nCurrent broad assessment: OPEN\n\n\nLight nuclei and coalescence observables\nLight nuclei can be sensitive to local nucleon phase-space correlations, making them potentially useful complementary probes.\nWhether fluctuations of deuterons and other light nuclei provide independent discriminatory power for critical phenomena remains an open research question.\nCurrent broad assessment: OPEN\n\n\nIntermittency and correlation-scale observables\nIntermittency searches and related correlation observables attempt to identify scale-dependent structures expected near critical phenomena.\nExperimental interpretation remains challenging because detector, statistical, dynamical and noncritical effects must be controlled.\nCurrent broad assessment: UNRESOLVED\n\n\nFull distributions and singularity-based approaches\nFull multiplicity distributions contain information beyond a finite set of low-order cumulants.\nMethods based on generating functions, Lee-Yang zeros and related singularity structures provide conceptually different approaches, but their realistic statistical and experimental performance requires careful validation.\nCurrent broad assessment: OPEN"
+  },
+  {
+    "objectID": "status.html#the-central-claims-and-their-challenges",
+    "href": "status.html#the-central-claims-and-their-challenges",
+    "title": "Current Status",
+    "section": "The central claims and their challenges",
+    "text": "The central claims and their challenges\n\n\n\n\n\n\n\n\nScientific question\nWhy it matters\nMain challenge\n\n\n\n\nIs non-monotonic beam-energy behavior evidence for criticality?\nNon-monotonicity is qualitatively expected near critical phenomena.\nNoncritical dynamics, conservation, changing acceptance, stopping and finite statistics can also generate structure.\n\n\nDo higher-order cumulants provide enhanced sensitivity?\nHigher orders can respond strongly to long-range correlations.\nStatistical uncertainties and sensitivity to backgrounds increase rapidly with order.\n\n\nCan correlations reveal the underlying physics more directly?\nCorrelation functions and factorial cumulants expose multiparticle structure.\nThe correlation mechanism must still be identified.\n\n\nCan different observables locate the same critical region?\nA genuine critical point should influence more than one measurement.\nDifferent observables evolve differently during the collision.\n\n\nCan theory connect equilibrium critical behavior to measured hadrons?\nThis connection is essential for quantitative inference.\nCritical slowing down, finite lifetime, expansion and hadronic evolution complicate the mapping."
+  },
+  {
+    "objectID": "status.html#what-would-significantly-strengthen-the-case",
+    "href": "status.html#what-would-significantly-strengthen-the-case",
+    "title": "Current Status",
+    "section": "What would significantly strengthen the case?",
+    "text": "What would significantly strengthen the case?\nA convincing critical-point interpretation would become substantially stronger if several of the following occur together:\n\na reproducible beam-energy structure is established with high statistical significance;\nthe sign and hierarchy of multiple observables agree with quantitative critical predictions;\nacceptance and correlation-length dependence follow theoretically expected scaling behavior;\nindependent observables show mutually consistent behavior;\nrealistic transport, conservation, volume and detector baselines fail to reproduce the observations;\ndynamical calculations connect the inferred behavior consistently to a common region of the QCD phase diagram;\nindependent experimental programs provide compatible evidence."
+  },
+  {
+    "objectID": "status.html#what-could-weaken-the-critical-point-interpretation",
+    "href": "status.html#what-could-weaken-the-critical-point-interpretation",
+    "title": "Current Status",
+    "section": "What could weaken the critical-point interpretation?",
+    "text": "What could weaken the critical-point interpretation?\nThe case would become weaker if:\n\nimproved statistics remove previously observed structures;\nrealistic noncritical models reproduce the measurements;\ndifferent observables imply mutually incompatible physics;\nexpected scaling behavior is absent;\ndetector or analysis effects explain the apparent signal;\nor quantitative theory predicts behavior inconsistent with data."
+  },
+  {
+    "objectID": "status.html#what-would-constitute-discovery",
+    "href": "status.html#what-would-constitute-discovery",
+    "title": "Current Status",
+    "section": "What would constitute discovery?",
+    "text": "What would constitute discovery?\nCriticalQCD does not define discovery as one cumulant ratio crossing a particular value or one observable displaying non-monotonic behavior.\nA compelling case should instead emerge from the combined consistency of\n[ + + + + . ]\nThe same standard should be applied when assessing evidence against an experimentally accessible critical point."
+  },
+  {
+    "objectID": "status.html#what-comes-next",
+    "href": "status.html#what-comes-next",
+    "title": "Current Status",
+    "section": "What comes next?",
+    "text": "What comes next?\nImportant progress is expected from:\n\nincreasingly precise fluctuation measurements,\nbroader acceptance and differential analyses,\nsystematic multi-observable comparisons,\nimproved dynamical critical calculations,\nrealistic background modeling,\nhigher-baryon-density experimental programs,\nand methods that use information beyond conventional low-order cumulants."
+  },
+  {
+    "objectID": "status.html#update-policy",
+    "href": "status.html#update-policy",
+    "title": "Current Status",
+    "section": "Update policy",
+    "text": "Update policy\nThis page is intended to be a living scientific assessment.\nFuture versions will include:\n\ndirect citations to major experimental and theoretical results,\nexperiment-by-experiment summaries,\nquantitative comparison tables,\nlinks to public conference talks,\nexplicit competing interpretations,\nand an update history documenting substantial changes.\n\nScientific corrections and community input will be welcomed."
+  }
+]
