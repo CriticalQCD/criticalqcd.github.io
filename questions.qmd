@@ -1,0 +1,21 @@
+---
+title: "Open Questions"
+---
+
+# Open Questions
+
+1. Does an experimentally accessible QCD critical point exist?
+
+2. If it exists, where is it located in the QCD phase diagram?
+
+3. What would constitute convincing experimental evidence?
+
+4. Can present fluctuation structures be explained by noncritical physics?
+
+5. Which observables provide genuinely independent information?
+
+6. Can critical correlations survive the dynamical evolution of a heavy-ion collision?
+
+7. Can several independent observables identify the same underlying critical behavior?
+
+8. Which future measurements would most decisively confirm or exclude criticality?

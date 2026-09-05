@@ -1,0 +1,232 @@
+---
+title: "Current Status"
+toc: true
+---
+
+::: {.assessment-box}
+
+## Overall assessment
+
+<span class="status-badge status-unresolved">UNRESOLVED</span>
+
+**The existence and location of an experimentally accessible QCD
+critical point have not been established.**
+
+Heavy-ion experiments have produced several interesting fluctuation
+and correlation measurements, but no single observation currently
+provides a unique critical-point interpretation.
+
+The central task is therefore not only to search for unusual behavior,
+but to determine whether the full set of observations can be explained
+consistently by critical physics and whether credible noncritical
+alternatives can be excluded.
+
+**Last scientific update:** September 2026
+
+:::
+
+
+## How CriticalQCD describes evidence
+
+CriticalQCD will use a small controlled vocabulary so that very different
+results are not presented with the same level of certainty.
+
+<div class="status-key">
+
+<span class="status-badge status-established">ESTABLISHED</span>
+A result or conclusion supported robustly by current evidence.
+
+<span class="status-badge status-suggestive">SUGGESTIVE</span>
+Interesting evidence exists, but important ambiguities remain.
+
+<span class="status-badge status-unresolved">UNRESOLVED</span>
+Competing interpretations remain viable.
+
+<span class="status-badge status-disfavored">DISFAVORED</span>
+Available evidence significantly weakens a proposed interpretation.
+
+<span class="status-badge status-open">OPEN</span>
+A scientifically important question for which decisive evidence is not yet available.
+
+</div>
+
+These labels describe the **state of the evidence**, not the importance
+of a topic or the quality of an individual paper.
+
+
+## Evidence landscape
+
+### Conserved-charge and net-proton fluctuations
+
+Higher-order fluctuations of conserved quantities remain among the
+central experimental probes of the QCD phase structure.
+
+Key questions include:
+
+- whether observed beam-energy structures require critical physics,
+- how strongly volume fluctuations and centrality resolution contribute,
+- how baryon-number conservation modifies the observables,
+- how measured proton fluctuations relate to baryon-number fluctuations,
+- how acceptance influences higher-order correlations,
+- and whether several cumulant orders can be described consistently.
+
+**Current broad assessment:** <span class="status-badge status-unresolved">UNRESOLVED</span>
+
+
+### Factorial cumulants and multiparticle correlations
+
+Factorial cumulants provide a complementary description of genuine
+multiparticle correlations and can expose correlation structures that
+are less transparent in conventional cumulant ratios.
+
+Important questions concern the microscopic origin, acceptance scaling,
+beam-energy dependence, and relation to possible critical correlations.
+
+**Current broad assessment:** <span class="status-badge status-unresolved">UNRESOLVED</span>
+
+
+### Momentum and mean-\(p_T\) fluctuations
+
+Momentum-space fluctuations provide information complementary to
+multiplicity fluctuations and may probe temperature-like and collective
+degrees of freedom.
+
+Their relationship to critical dynamics and to noncritical sources
+requires systematic quantitative study.
+
+**Current broad assessment:** <span class="status-badge status-open">OPEN</span>
+
+
+### Light nuclei and coalescence observables
+
+Light nuclei can be sensitive to local nucleon phase-space correlations,
+making them potentially useful complementary probes.
+
+Whether fluctuations of deuterons and other light nuclei provide
+independent discriminatory power for critical phenomena remains an open
+research question.
+
+**Current broad assessment:** <span class="status-badge status-open">OPEN</span>
+
+
+### Intermittency and correlation-scale observables
+
+Intermittency searches and related correlation observables attempt to
+identify scale-dependent structures expected near critical phenomena.
+
+Experimental interpretation remains challenging because detector,
+statistical, dynamical and noncritical effects must be controlled.
+
+**Current broad assessment:** <span class="status-badge status-unresolved">UNRESOLVED</span>
+
+
+### Full distributions and singularity-based approaches
+
+Full multiplicity distributions contain information beyond a finite set
+of low-order cumulants.
+
+Methods based on generating functions, Lee-Yang zeros and related
+singularity structures provide conceptually different approaches, but
+their realistic statistical and experimental performance requires
+careful validation.
+
+**Current broad assessment:** <span class="status-badge status-open">OPEN</span>
+
+
+## The central claims and their challenges
+
+| Scientific question | Why it matters | Main challenge |
+|---|---|---|
+| Is non-monotonic beam-energy behavior evidence for criticality? | Non-monotonicity is qualitatively expected near critical phenomena. | Noncritical dynamics, conservation, changing acceptance, stopping and finite statistics can also generate structure. |
+| Do higher-order cumulants provide enhanced sensitivity? | Higher orders can respond strongly to long-range correlations. | Statistical uncertainties and sensitivity to backgrounds increase rapidly with order. |
+| Can correlations reveal the underlying physics more directly? | Correlation functions and factorial cumulants expose multiparticle structure. | The correlation mechanism must still be identified. |
+| Can different observables locate the same critical region? | A genuine critical point should influence more than one measurement. | Different observables evolve differently during the collision. |
+| Can theory connect equilibrium critical behavior to measured hadrons? | This connection is essential for quantitative inference. | Critical slowing down, finite lifetime, expansion and hadronic evolution complicate the mapping. |
+
+
+## What would significantly strengthen the case?
+
+A convincing critical-point interpretation would become substantially
+stronger if several of the following occur together:
+
+1. a reproducible beam-energy structure is established with high statistical significance;
+
+2. the sign and hierarchy of multiple observables agree with quantitative
+   critical predictions;
+
+3. acceptance and correlation-length dependence follow theoretically
+   expected scaling behavior;
+
+4. independent observables show mutually consistent behavior;
+
+5. realistic transport, conservation, volume and detector baselines fail
+   to reproduce the observations;
+
+6. dynamical calculations connect the inferred behavior consistently to
+   a common region of the QCD phase diagram;
+
+7. independent experimental programs provide compatible evidence.
+
+
+## What could weaken the critical-point interpretation?
+
+The case would become weaker if:
+
+- improved statistics remove previously observed structures;
+- realistic noncritical models reproduce the measurements;
+- different observables imply mutually incompatible physics;
+- expected scaling behavior is absent;
+- detector or analysis effects explain the apparent signal;
+- or quantitative theory predicts behavior inconsistent with data.
+
+
+## What would constitute discovery?
+
+CriticalQCD does **not** define discovery as one cumulant ratio crossing
+a particular value or one observable displaying non-monotonic behavior.
+
+A compelling case should instead emerge from the combined consistency of
+
+\[
+\text{beam-energy dependence}
++
+\text{correlation structure}
++
+\text{scaling behavior}
++
+\text{independent observables}
++
+\text{failure of noncritical explanations}.
+\]
+
+The same standard should be applied when assessing evidence **against**
+an experimentally accessible critical point.
+
+
+## What comes next?
+
+Important progress is expected from:
+
+- increasingly precise fluctuation measurements,
+- broader acceptance and differential analyses,
+- systematic multi-observable comparisons,
+- improved dynamical critical calculations,
+- realistic background modeling,
+- higher-baryon-density experimental programs,
+- and methods that use information beyond conventional low-order cumulants.
+
+
+## Update policy
+
+This page is intended to be a **living scientific assessment**.
+
+Future versions will include:
+
+- direct citations to major experimental and theoretical results,
+- experiment-by-experiment summaries,
+- quantitative comparison tables,
+- links to public conference talks,
+- explicit competing interpretations,
+- and an update history documenting substantial changes.
+
+Scientific corrections and community input will be welcomed.

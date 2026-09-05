@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "CriticalQCD"
+
+  navbar:
+    background: "#ffffff"
+
+    left:
+      - href: index.qmd
+        text: Home
+      - href: status.qmd
+        text: Status
+      - href: questions.qmd
+        text: Open Questions
+      - href: resources.qmd
+        text: Resources
+      - href: about.qmd
+        text: About
+
+  search: true
+
+  page-footer:
+    left: |
+      **CriticalQCD** — Tracking the global search for the QCD critical point
+    right: |
+      Independent community-oriented scientific resource
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

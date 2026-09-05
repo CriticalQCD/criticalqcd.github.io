@@ -1,0 +1,31 @@
+---
+title: "Resources"
+---
+
+# Resources
+
+CriticalQCD will provide curated resources for the QCD critical-point community.
+
+## Reviews and foundational papers
+
+Coming soon.
+
+## Experimental results
+
+Coming soon.
+
+## Theory and phenomenology
+
+Coming soon.
+
+## Public talks and lectures
+
+Coming soon.
+
+## Software
+
+Coming soon.
+
+## Experimental programs
+
+Coming soon.

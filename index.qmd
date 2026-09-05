@@ -1,0 +1,175 @@
+---
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+
+<div class="hero-kicker">STATUS • EVIDENCE • OPEN QUESTIONS • RESOURCES</div>
+
+# The global search for the QCD critical point
+
+CriticalQCD is an independent, community-oriented scientific resource
+tracking the evidence, theoretical developments, experimental efforts,
+open questions, challenges, methods, and resources in the worldwide
+search for the QCD critical point.
+
+<div class="hero-actions">
+
+[Explore Current Status](status.qmd){.btn .btn-primary}
+
+[Open Questions](questions.qmd){.btn .btn-outline}
+
+</div>
+
+:::
+
+
+::: {.status-panel}
+
+### Current assessment
+
+**The existence of an experimentally accessible QCD critical point has not been established.**
+
+Several measurements show intriguing fluctuation and correlation
+structures, but their interpretation remains unresolved. CriticalQCD
+tracks both possible critical signatures and credible noncritical
+explanations.
+
+**Last scientific update:** September 2026
+
+:::
+
+
+## The central question
+
+Does strongly interacting matter possess a critical point at finite
+temperature and baryon density that can be accessed through
+heavy-ion collisions?
+
+Answering this requires more than observing one non-monotonic quantity.
+A convincing case should connect multiple independent observables,
+quantitative theory, realistic dynamical evolution, and stringent
+noncritical baselines.
+
+
+<div class="home-grid">
+
+<div class="home-card">
+
+### Current Status
+
+What do experiments and theory presently tell us?
+
+Evidence, uncertainties, competing interpretations, and the measurements
+that could change the picture.
+
+[Explore the evidence →](status.qmd)
+
+</div>
+
+<div class="home-card">
+
+### Open Questions
+
+What remains genuinely unresolved?
+
+A living map of the theoretical, experimental, statistical, and
+phenomenological problems that still stand between interesting signals
+and a convincing conclusion.
+
+[See the open questions →](questions.qmd)
+
+</div>
+
+<div class="home-card">
+
+### Resources
+
+Find important papers, reviews, public talks, experimental programs,
+software, lectures, and reproducibility resources.
+
+[Browse resources →](resources.qmd)
+
+</div>
+
+</div>
+
+
+## What CriticalQCD brings together
+
+<div class="topic-grid">
+
+<div>
+
+### Experiment
+
+RHIC BES and FXT, SPS, HADES, FAIR/CBM, NICA and other high-baryon-density
+programs.
+
+</div>
+
+<div>
+
+### Observables
+
+Conserved-charge cumulants, factorial cumulants, correlations,
+intermittency, momentum fluctuations, light nuclei, full distributions,
+and emerging probes.
+
+</div>
+
+<div>
+
+### Theory
+
+Universality, lattice QCD, critical dynamics, hydrodynamics,
+statistical mechanics, transport, and effective descriptions.
+
+</div>
+
+<div>
+
+### Challenges
+
+Finite statistics, conservation laws, volume fluctuations, acceptance,
+critical slowing down, hadronic evolution, detector effects, and model
+dependence.
+
+</div>
+
+</div>
+
+
+## Scientific principle
+
+CriticalQCD does not begin from the assumption that a critical point
+**must** be present in the experimentally accessible region.
+
+The objective is to determine what the total body of evidence supports.
+
+A credible conclusion should survive:
+
+- multiple independent observables,
+- realistic noncritical baselines,
+- detector and analysis effects,
+- dynamical evolution,
+- quantitative theoretical consistency,
+- and independent experimental confirmation.
+
+Finding compelling evidence **against** an accessible critical point
+would be scientifically as important as establishing evidence for one.
+
+
+---
+
+<div class="home-closing">
+
+### A living scientific resource
+
+CriticalQCD will grow continuously as new measurements, calculations,
+talks, software, and theoretical developments appear.
+
+[About CriticalQCD](about.qmd)
+
+</div>

@@ -1,0 +1,36 @@
+---
+title: "About CriticalQCD"
+---
+
+# About CriticalQCD
+
+CriticalQCD is an independent, community-oriented scientific resource
+dedicated to the global search for the QCD critical point.
+
+Its purpose is to organize and connect experimental evidence,
+theoretical developments, open questions, methods, challenges,
+public resources, and worldwide research efforts.
+
+CriticalQCD does **not** represent any experimental collaboration,
+institution, conference, or funding agency.
+
+## Editorial philosophy
+
+CriticalQCD aims to distinguish clearly between:
+
+- established results,
+- suggestive evidence,
+- unresolved interpretations,
+- theoretical predictions,
+- preliminary results,
+- noncritical explanations,
+- and open questions.
+
+Competing scientific interpretations should be represented fairly.
+
+## Maintainer
+
+CriticalQCD was initiated and is maintained by **Debasish Mallick**.
+
+Community suggestions, corrections, and contributions will be welcomed
+as the project develops.
