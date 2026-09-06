@@ -1,7 +1,7 @@
 ---
 page-layout: full
 toc: false
-pagetitle: "CriticalQCD — Status and Resources for the QCD Critical Point Search"
+pagetitle: "CriticalQCD — Status of the QCD Critical Point Search"
 description: "CriticalQCD is an independent, community-oriented scientific resource tracking evidence, theory, experiments, open questions, challenges, talks, papers, software, and worldwide efforts in the search for the QCD critical point."
 ---
 
