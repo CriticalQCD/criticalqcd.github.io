@@ -1,8 +1,8 @@
 ---
 title: "Resources"
+description: "Curated papers, reviews, talks, software, experimental programs, and learning resources for the QCD critical-point community."
 ---
 
-# Resources
 
 CriticalQCD will provide curated resources for the QCD critical-point community.
 

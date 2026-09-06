@@ -1,5 +1,6 @@
 ---
 title: "Current Status"
+description: "A living scientific assessment of experimental evidence, theoretical constraints, competing interpretations, and major challenges in the search for the QCD critical point."
 toc: true
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Open Questions"
+description: "Key unresolved experimental, theoretical, statistical, and phenomenological questions in the worldwide search for the QCD critical point."
 ---
 
-# Open Questions
+
 
 1. Does an experimentally accessible QCD critical point exist?
 

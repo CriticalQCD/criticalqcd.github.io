@@ -1,8 +1,9 @@
 ---
 title: "About CriticalQCD"
+description: "About CriticalQCD, an independent community-oriented scientific resource tracking the global search for the QCD critical point."
 ---
 
-# About CriticalQCD
+
 
 CriticalQCD is an independent, community-oriented scientific resource
 dedicated to the global search for the QCD critical point.
