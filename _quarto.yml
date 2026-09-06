@@ -3,10 +3,14 @@ project:
 
 website:
   title: "CriticalQCD"
+  site-url: "https://criticalqcd.org"
+  description: "CriticalQCD is an independent, community-oriented scientific resource tracking the status, evidence, open questions, challenges, methods, talks, papers, software, and worldwide efforts in the search for the QCD critical point."
+
+  open-graph: true
+  twitter-card: true
 
   navbar:
     background: "#ffffff"
-
     left:
       - href: index.qmd
         text: Home
