@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "071e7b2e126f44088d545e4ae9fc9d57.txt"
 
 website:
   title: "CriticalQCD"
